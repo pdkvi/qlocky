@@ -11,6 +11,7 @@ cmake --build build/
 
 ## TODO's list
 - Task list
+- Bind a timer to a specific task
 - Ability to work in the background with minimizing to the system tray
 - Autostart
 - Maintaining statistics (the ability to save time captured by the timer)
