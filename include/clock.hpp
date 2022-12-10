@@ -5,7 +5,7 @@
 #include <QObject>
 #include <QTime>
 
-class QTimer;
+QT_FORWARD_DECLARE_CLASS(QTimer)
 
 class Clock : public QObject
 {
